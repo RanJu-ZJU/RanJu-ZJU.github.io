@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a third year undergraduate student from Zhejiang University. My research interest includes metamaterials, heat transfer, and wave propagation. You can find my CV here:
+Hi, I'm a third year undesfsdrgraduate student from Zhejiang University. My research interest includes metamaterials, heat transfer, and wave propagation. You can find my CV here:
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
 
