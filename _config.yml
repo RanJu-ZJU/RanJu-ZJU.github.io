@@ -83,11 +83,11 @@ author:
   name             : "Ran Ju"
   avatar           : "MyPicture.png"
   bio              : "An undergraduate student from Zhejiang University."
-  location         : "Location"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=joU9NrIAAAAJ&hl=zh-CN"
+  email            : "r.ju@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
