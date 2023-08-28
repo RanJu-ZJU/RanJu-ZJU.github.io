@@ -1,12 +1,12 @@
-
 ---
 title: "Bridging dynamic and steady-state nonreciprocity in a thermal circulator"
 collection: publications
-permalink: /publication/2023-08-28-paper3
+permalink: /publication/2023-08-28-paper-title-number-3
 excerpt: 'It is a research article under the review of Nature Communications.'
 date: 2023-08-28
-#paperurl: 'http://RanJu-ZJU.github.io/files/paper3.pdf'
+paperurl: 'http://RanJu-ZJU.github.io/files/paper3.pdf'
 ---
+
 To date, most nonreciprocal effects that have been realized are for the dynamic propagation of waves. The few studies on steady-state or static nonreciprocity, where the fields are constant in time, were carried out based on totally different design principles and concepts. Therefore, it remains a mystery whether the dynamic and steady-state nonreciprocity can share any common origin, and whether it is even possible to study them in the same framework. Here, we propose a thermal circulator which breaks both the dynamic and steady-state reciprocity of heat transfer using velocity field biasing. A unified thermal scattering theory is established to analyze both cases. The dynamic nonreciprocity is attributed to an asymmetric scattering matrix. Counterintuitively, this matrix approaches a symmetric limit at steady state, but still conveys a significant steady-state nonreciprocity. Our theory reveals this unique nonreciprocal mechanism of multiple scattering, and is experimentally verified with a large isolation ratio of heat fluxes. Being the first work to report thermal nonreciprocity induced by external biasing experimentally, it is expected to inspire novel approaches for thermal energy utilization and thermal management. It could also arouse broad interests on the unification of dynamic and steady-state phenomena in acoustics, mechanics, and electromagnetics.
 ![Editing a markdown file for a talk](/images/pic3.png)
 
