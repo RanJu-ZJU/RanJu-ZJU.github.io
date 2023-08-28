@@ -45,4 +45,5 @@ Honnors and Awards
 ======
 * First Class Scholarship, NJUPT (Top 3%) 2017-2018
 * First Class Scholarship, NJUPT (Top 3%) 2018-2019
-* Meritorious Winner, Interdisciplinary Contest in Modeling, 2020 
+* Meritorious Winner, Interdisciplinary Contest in Modeling, 2020
+![Editing a markdown file for a talk](/images/scholar1.png)
