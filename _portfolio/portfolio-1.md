@@ -4,4 +4,10 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Honnors and Awards
+======
+* First Class Scholarship, NJUPT (Top 3%) 2017-2018
+* First Class Scholarship, NJUPT (Top 3%) 2018-2019
+* Best Student Model, NJUPT (Top 1%) 2017-2018
+* Meritorious Winner, Interdisciplinary Contest in Modeling, 2020
+![Editing a markdown file for a talk](/images/scholar1.png)
