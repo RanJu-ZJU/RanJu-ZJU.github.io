@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Optoelectronic Information Science and Engineering, Nanjing University of Posts and Telecommunications, 2021
-* M.S. in Electronic Science and Technology, Zhejiang University, 2024 (expected)
+* B.S. in Optoelectronic Information Science and Engineering,
+  Nanjing University of Posts and Telecommunications,
+  Nanjing, China, 2021
+* M.S. in Electronic Science and Technology,
+  Zhejiang University,
+  Hangzhou, China, 2024 (expected)
   
 Skills
 ======
 * Programming
-  *C++
-  *Matlab
-  *Mathematica
+  * C++
+  * Matlab
+  * Mathematica
 * Softwares
   * COMSOL (multi-physics simulation)
   * Rhino (3D-modeling)
