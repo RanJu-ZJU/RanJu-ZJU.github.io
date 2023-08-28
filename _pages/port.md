@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-Honnors and Awards
+Here are some of my life records
 ======
 * Team building within the research group 2022
 ![Editing a markdown file for a talk](/images/teamBuilding.png)
