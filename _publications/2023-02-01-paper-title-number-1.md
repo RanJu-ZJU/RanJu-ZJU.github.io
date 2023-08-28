@@ -9,4 +9,5 @@ paperurl: 'http://RanJu-ZJU.github.io/files/paper1.pdf'
 ---
 [Download paper here](http://RanJu-ZJU.github.io/files/paper1.pdf)
 233
-
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
