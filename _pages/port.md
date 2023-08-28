@@ -4,7 +4,7 @@ title: "port"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /port.html
 ---
 Here are some of my life records
 ======
