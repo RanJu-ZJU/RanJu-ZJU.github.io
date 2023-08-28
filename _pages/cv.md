@@ -35,12 +35,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Honnors and Awards
 ======
 * First Class Scholarship, NJUPT (Top 3%) 2017-2018
@@ -48,3 +42,5 @@ Honnors and Awards
 * Best Student Model, NJUPT (Top 1%) 2017-2018
 * Meritorious Winner, Interdisciplinary Contest in Modeling, 2020
 ![Editing a markdown file for a talk](/images/scholar1.png)
+
+[More information here.](http://RanJu-ZJU.github.io/files/Resume Ran Ju.pdf)
