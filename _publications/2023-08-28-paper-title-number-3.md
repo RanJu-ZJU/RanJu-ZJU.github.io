@@ -2,7 +2,7 @@
 title: "Bridging dynamic and steady-state nonreciprocity in a thermal circulator"
 collection: publications
 permalink: /publication/2023-08-28-paper-title-number-3
-excerpt: 'It is a research article under the review of Nature Communications.'
+excerpt: 'It is a research article under the review of *Nature Communications*.'
 date: 2023-08-28
 #paperurl: 'http://RanJu-ZJU.github.io/files/paper3.pdf'
 ---
