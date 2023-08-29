@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
 Here are some of my life records
 ------
 
