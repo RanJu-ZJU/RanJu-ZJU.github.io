@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Prof. Ying Li](https://person.zju.edu.cn/e
 
 On this website, you can to learn about my educational experience, academic achievements, and life interests. 
 
-![Editing a markdown file for a talk](/images/mapHz.png)
+![Editing a markdown file for a talk](/images/map.Hz.png)
