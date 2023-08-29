@@ -84,6 +84,7 @@ author:
   avatar           : "MyPicture.png"
   bio              : "An undergraduate student from Zhejiang University."
   location         : "Hangzhou, China"
+  birthdate        : "1998-11-16"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=joU9NrIAAAAJ&hl=zh-CN"
