@@ -2,7 +2,7 @@
 title: "Convective Thermal Metamaterials: Exploring High-Efficiency, Directional, and Wave-Like Heat Transfer"
 collection: publications
 permalink: /publication/2023-04-04-paper-title-number-2
-excerpt: 'It is a review paper published in Advanced Materials.
+excerpt: 'It is a review paper published in *Advanced Materials*.
 Please click on the title for more information.'
 date: 2023-04-04
 #paperurl: 'http://RanJu-ZJU.github.io/files/paper2.pdf'
