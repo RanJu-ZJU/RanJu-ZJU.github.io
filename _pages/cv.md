@@ -43,4 +43,5 @@ Honnors and Awards
 * Meritorious Winner, Interdisciplinary Contest in Modeling, 2020
 ![Editing a markdown file for a talk](/images/scholar1.png)
 
-[More information here.](http://RanJu-ZJU.github.io/files/Resume Ran Ju.pdf)
+[Detailed CV here](http://RanJu-ZJU.github.io/files/Resume Ran Ju.pdf)
+[Transcript during master's degree](http://grs.zju.edu.cn/y/scan-page.html?pd=112331753241495519600)
