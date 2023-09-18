@@ -44,5 +44,5 @@ Honnors and Awards
 ![Editing a markdown file for a talk](/images/scholar1.png)
 
 [Detailed CV here](http://RanJu-ZJU.github.io/files/Resume Ran Ju.pdf)
-|[Transcript during master's degree](http://grs.zju.edu.cn/y/scan-page.html?pd=112331753241495519600)
-|[Transcript during undergraduate period](http://RanJu-ZJU.github.io/files/GPA.pdf)
+| [Transcript during master's degree](http://grs.zju.edu.cn/y/scan-page.html?pd=112331753241495519600)
+| [Transcript during undergraduate period](http://RanJu-ZJU.github.io/files/GPA.pdf)
