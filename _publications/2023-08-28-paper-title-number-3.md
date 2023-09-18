@@ -1,13 +1,13 @@
 ---
-title: "Bridging dynamic and steady-state nonreciprocity in a thermal circulator"
+title: "Nonreciprocal Heat Circulation Meta-Devices"
 collection: publications
 permalink: /publication/2023-08-28-paper-title-number-3
-excerpt: 'It is a research article under the review of *Nature Communications*.'
+excerpt: 'It is a research article under the review of *Physical Review Letters*.'
 date: 2023-08-28
 #paperurl: 'http://RanJu-ZJU.github.io/files/paper3.pdf'
 ---
 
-To date, most nonreciprocal effects that have been realized are for the dynamic propagation of waves. The few studies on steady-state or static nonreciprocity, where the fields are constant in time, were carried out based on totally different design principles and concepts. Therefore, it remains a mystery whether the dynamic and steady-state nonreciprocity can share any common origin, and whether it is even possible to study them in the same framework. Here, we propose a thermal circulator which breaks both the dynamic and steady-state reciprocity of heat transfer using velocity field biasing. A unified thermal scattering theory is established to analyze both cases. The dynamic nonreciprocity is attributed to an asymmetric scattering matrix. Counterintuitively, this matrix approaches a symmetric limit at steady state, but still conveys a significant steady-state nonreciprocity. Our theory reveals this unique nonreciprocal mechanism of multiple scattering, and is experimentally verified with a large isolation ratio of heat fluxes. Being the first work to report thermal nonreciprocity induced by external biasing experimentally, it is expected to inspire novel approaches for thermal energy utilization and thermal management. It could also arouse broad interests on the unification of dynamic and steady-state phenomena in acoustics, mechanics, and electromagnetics.
+Thermal nonreciprocity typically stems from nonlinearity or spatiotemporal variation of parameters. However, constrained by the inherent temperature-dependent properties and the law of mass conservation, previous works were compelled to treat dynamic and steady-state cases separately. Here, by establishing a unified thermal scattering theory, we report the creation of a convection-based thermal meta-device which supports both dynamic and steady-state nonreciprocal heat circulation. We observe the non-trivial dependence between the nonreciprocal resonance peaks and the dynamic parameters, and reveal the unique nonreciprocal mechanism of multiple scattering at steady state. This mechanism enables thermal nonreciprocity in the initially quasi-symmetric scattering matrix of our three-port meta-device, and has been experimentally validated with a significant isolation ratio of heat fluxes. Our findings establish a framework for thermal nonreciprocity that can be smoothly modulated for dynamic and steady-state heat signals, it may also offer insight into other heat-transfer-related problems or even other fields such as acoustics and mechanics.
 ![Editing a markdown file for a talk](/images/pic3.png)
 
 * My work
@@ -17,4 +17,4 @@ To date, most nonreciprocal effects that have been realized are for the dynamic 
   * Ran different calculation software, including MATLAB, MATHEMATICA, and COMSOL, to verify the consistency of results between theoretical and simulation models.
   * Perfected the thermal scattering theory to address the problem where nonreciprocity seems to vanish at the zero-frequency limit; revealed the physical nature, namely the diffraction and multiple scattering, of this counterintuitive phenomenon, and reflected on the difference between thermal and acoustic systems.
   * Looked up and ascertained the parameters of experimental model, then designed the platform and conducted a group of experiments successfully.
-  * Submitted a research paper to [Nature Communications] as the first author (under review).
+  * Submitted a research paper to Physical Review Letters as the first author (under review).
