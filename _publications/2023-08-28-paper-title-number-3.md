@@ -2,7 +2,7 @@
 title: "Nonreciprocal Heat Circulation Meta-Devices"
 collection: publications
 permalink: /publication/2023-08-28-paper-title-number-3
-excerpt: 'It is a research article under the review of *Physical Review Letters*.'
+excerpt: 'It is a research article under the review of *Advanced Materials*.'
 date: 2023-08-28
 #paperurl: 'http://RanJu-ZJU.github.io/files/paper3.pdf'
 ---
@@ -17,4 +17,4 @@ Thermal nonreciprocity typically stems from nonlinearity or spatiotemporal varia
   * Ran different calculation software, including MATLAB, MATHEMATICA, and COMSOL, to verify the consistency of results between theoretical and simulation models.
   * Perfected the thermal scattering theory to address the problem where nonreciprocity seems to vanish at the zero-frequency limit; revealed the physical nature, namely the diffraction and multiple scattering, of this counterintuitive phenomenon, and reflected on the difference between thermal and acoustic systems.
   * Looked up and ascertained the parameters of experimental model, then designed the platform and conducted a group of experiments successfully.
-  * Submitted a research paper to Physical Review Letters as the first author (under review).
+  * Submitted a research paper to Advanced Materials as the first author (under review).
